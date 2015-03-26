@@ -1,0 +1,18 @@
+//DO NOT MODIFY  Ancestor class for DLL interface|TestPslProc|||||||1
+	#PACKAGE testpslfwk.psl
+	#CLASSDEF extends = Primitive public delimiter=9
+	
+	/* DOC -----------------------------------------------------------------
+		** ENDDOC */
+	
+	/* Revision History ----------------------------------------------------
+		** ENDDOC */
+		
+			// --------------------------------------------------------------------
+public static String testMethod()
+	/* DOC ----------------------------------------------------------------
+	 document
+	** ENDDOC */
+  // first line of code
+  // second line of code
+	return GTMTBL16
