@@ -8,11 +8,12 @@
 	/* Revision History ----------------------------------------------------
 		** ENDDOC */
 		
-			// --------------------------------------------------------------------
+	// --------------------------------------------------------------------
 public static String testMethod()
 	/* DOC ----------------------------------------------------------------
-	 document
+	Documents
 	** ENDDOC */
-  // first line of code
-  // second line of code
+  	// first line of code
+  	// second line of code
+
 	return GTMTBL16
